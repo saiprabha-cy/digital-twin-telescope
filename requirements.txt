@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+astropy
+pandas
+scikit-learn
+torch
+tensorflow
+plotly
+jupyter
