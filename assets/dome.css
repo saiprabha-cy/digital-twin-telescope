@@ -1,0 +1,72 @@
+/* ============================================================
+   OBSERVATORY DOME OPENING ANIMATION — Edition 7.5
+   Works with Edition 7.2 NASA/JWST theme
+   No Dash ID conflicts — purely visual
+============================================================ */
+
+#dome-overlay {
+    position: fixed;
+    inset: 0;
+    background: #000;
+    z-index: 9999;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: domeFadeOut 5s ease forwards;
+    animation-delay: 3.8s;
+}
+
+.dome-half {
+    position: absolute;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle at center,
+        rgb(40,40,40) 0%, rgb(15,15,15) 60%, #000 100%);
+    border-radius: 50%;
+    top: 0;
+    transform-origin: center center;
+    animation: domeOpen 4s ease forwards;
+}
+
+#dome-left {
+    left: -100%;
+}
+
+#dome-right {
+    right: -100%;
+}
+
+/* Opening motion */
+@keyframes domeOpen {
+    0% { transform: translateY(0) rotate(0deg); }
+    100% {
+        transform: translateY(-120vh) rotate(18deg);
+        opacity: 0;
+    }
+}
+
+/* Glow while dome opens */
+#dome-glow {
+    position: absolute;
+    width: 120vw;
+    height: 120vh;
+    background: radial-gradient(circle at center,
+        rgba(180,220,255,0.35),
+        rgba(120,170,255,0.15),
+        transparent 70%);
+    filter: blur(40px);
+    opacity: 0;
+    animation: glowUp 4s ease forwards;
+}
+
+@keyframes glowUp {
+    0% { opacity: 0; transform: scale(0.6); }
+    95% { opacity: 1; transform: scale(1.2); }
+    100% { opacity: 0; transform: scale(1.5); }
+}
+
+/* Dome fades away smoothly */
+@keyframes domeFadeOut {
+    to { opacity: 0; visibility: hidden; }
+}
