@@ -19,9 +19,13 @@ addresses that need through a flexible and extensible digital twin architecture.
 
 ## Repository Structure
 src/ Core simulation modules
+
 notebooks/ Experimental and analysis notebooks
+
 dashboard/ Interactive visualization interface
+
 data/ Input and simulated datasets
+
 results/ Generated figures and metrics
 
 
@@ -30,4 +34,5 @@ Active development.
 A peer-reviewed journal submission is in preparation.
 
 ## Author
+
 SaiPrabha C Y
