@@ -1,0 +1,17 @@
+{
+    "reference_RA_deg": 150.0,
+    "reference_DEC_deg": 2.0,
+    "plate_scale_arcsec_per_pixel": 0.4,
+    "num_detected_stars": 1,
+    "stars": [
+        {
+            "id": 1,
+            "pixel_x": 126.56044177478783,
+            "pixel_y": 126.57592429544391,
+            "RA_deg": 150.0000488695714,
+            "DEC_deg": 1.9999528804765627,
+            "RA_error_arcsec": 0.17593045704416,
+            "DEC_error_arcsec": -0.16963028437420036
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "notebook": "07_sensor_simulation.ipynb",
+  "sensor_pixels": 256,
+  "pixel_size_m": 4.5e-06,
+  "quantum_efficiency": 0.85,
+  "gain": 1.4,
+  "readout_noise_electrons": 5,
+  "dark_current_e_per_s": 0.01,
+  "exposure_time_s": 2.0,
+  "sky_background_e_per_pixel": 15,
+  "assumed_star_photons": 50000,
+  "psf_source": "loaded_from_fits_if_found_or_workspace"
+}

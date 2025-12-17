@@ -1,0 +1,13 @@
+{
+  "sensor_pixels": 256,
+  "pixel_size_m": 4.5e-06,
+  "quantum_efficiency": 0.85,
+  "gain_electrons_per_ADU": 1.4,
+  "readout_noise_electrons": 5,
+  "dark_current_electrons_per_pixel_sec": 0.01,
+  "exposure_time_sec": 2.0,
+  "sky_background_electrons": 15,
+  "assumed_star_photons": 50000,
+  "psf_source_file": "final_combined_psf.fits",
+  "export_note": "Research-grade sensor simulation output"
+}

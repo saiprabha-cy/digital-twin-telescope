@@ -1,0 +1,10 @@
+{
+  "notebook": "06_ai_analysis.ipynb",
+  "n_blurred_patches": 2151,
+  "patch_shape": [
+    21,
+    21
+  ],
+  "model_saved_as": "unet_best.keras / unet_final.keras (if created)",
+  "psf_saved": true
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "sun",
+    "sf_name": "sun",
+    "datetime_utc": "2025-12-08T05:35:59.196219+00:00",
+    "ra_deg": 254.81094633013547,
+    "dec_deg": -22.702637831627303,
+    "distance_au": 0.9850402376701282,
+    "approx_mag": -26.74
+  },
+  {
+    "name": "moon",
+    "sf_name": "moon",
+    "datetime_utc": "2025-12-08T05:35:59.196219+00:00",
+    "ra_deg": 123.39582717298254,
+    "dec_deg": 22.738506204076366,
+    "distance_au": 0.002484585091395532,
+    "approx_mag": -12.74
+  },
+  {
+    "name": "mercury",
+    "sf_name": "mercury",
+    "datetime_utc": "2025-12-08T05:35:59.196219+00:00",
+    "ra_deg": 233.64368138002908,
+    "dec_deg": -16.88253182556039,
+    "distance_au": 1.018472175790348,
+    "approx_mag": 0.0
+  },
+  {
+    "name": "venus",
+    "sf_name": "venus",
+    "datetime_utc": "2025-12-08T05:35:59.196219+00:00",
+    "ra_deg": 247.2947396644202,
+    "dec_deg": -21.359404425089355,
+    "distance_au": 1.6920164305471488,
+    "approx_mag": -4.0
+  },
+  {
+    "name": "mars",
+    "sf_name": "mars",
+    "datetime_utc": "2025-12-08T05:35:59.196219+00:00",
+    "ra_deg": 263.777719301121,
+    "dec_deg": -24.035902347601297,
+    "distance_au": 2.4229831168570937,
+    "approx_mag": -1.5
+  },
+  {
+    "name": "jupiter",
+    "sf_name": "jupiter barycenter",
+    "datetime_utc": "2025-12-08T05:35:59.196219+00:00",
+    "ra_deg": 115.53376701727495,
+    "dec_deg": 21.543419724340566,
+    "distance_au": 4.38809710654852,
+    "approx_mag": -2.2
+  },
+  {
+    "name": "saturn",
+    "sf_name": "saturn barycenter",
+    "datetime_utc": "2025-12-08T05:35:59.196219+00:00",
+    "ra_deg": 356.23616593862596,
+    "dec_deg": -4.181909094261052,
+    "distance_au": 9.324348938107596,
+    "approx_mag": 0.7
+  }
+]
