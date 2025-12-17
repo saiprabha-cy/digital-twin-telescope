@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17967725.svg)](https://doi.org/10.5281/zenodo.17967725)
 # Digital Twin Telescope
 
 A modular, end-to-end digital twin simulation framework for ground-based optical telescopes.
@@ -36,3 +37,4 @@ A peer-reviewed journal submission is in preparation.
 ## Author
 
 SaiPrabha C Y
+
