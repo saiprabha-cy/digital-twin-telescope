@@ -67,14 +67,20 @@ jupyter notebook notebooks/
 
 Run individual notebooks to reproduce simulations, reconstructions, and visualizations.
 
+---
+
 ## Reproducibility
 
 All experiments are designed to be reproducible using the provided notebooks and datasets. Versioned releases are archived via Zenodo to ensure long-term accessibility and citation stability.
+
+---
 
 ## Status
 
 Active development.
 A peer-reviewed journal submission is in preparation.
+
+---
 
 ## Citation
 
@@ -86,14 +92,19 @@ Zenodo. https://doi.org/10.5281/zenodo.17967725
 
 A CITATION.cff file is included for automated citation generation.
 
+---
+
 ## Author
 
 SaiPrabha C Y
+
+---
 
 ## License
 
 This project is released under the MIT License.
 See the LICENSE file for details.
+
 
 
 
