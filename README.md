@@ -30,6 +30,7 @@ Each stage is modular and can be extended independently, enabling future integra
 ---
 
 ## Repository Structure
+
 digital-twin-telescope/
 │
 ├── assets/ # Dashboard styles and frontend assets
@@ -117,4 +118,5 @@ When you’re done, just reply:
 > **README updated**
 
 and we’ll move forward step by step 🚀
+
 
