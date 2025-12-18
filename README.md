@@ -88,42 +88,6 @@ Author
 
 SaiPrabha C Y
 
-License
 
-Released under the MIT License.
-
----
-
-## ✅ What you should do now
-1. Open **README.md** in GitHub  
-2. Click **Edit (✏️)**  
-3. **Delete everything**
-4. Paste the content above
-5. Commit message:
 Update README with unified research documentation and citation
-
----
-
-## 🔥 Why this is the RIGHT choice
-- Keeps **your original scientific description**
-- Adds **research-standard structure**
-- Properly embeds **DOI & citation**
-- Suitable for **journal reviewers, ISRO/DRDO, international labs**
-- Matches Zenodo + arXiv expectations
-
----
-
-### Next step after README
-➡️ **Verify LICENSE (MIT)**  
-➡️ **Prepare v1.0.0 “Stable Research Release”**  
-➡️ **README badge (DOI + GitHub release)**
-
-When you’re done, just reply:
-> **README updated**
-
-and we’ll move forward step by step 🚀
-
-
-
-
 
