@@ -87,7 +87,3 @@ A CITATION.cff file is included for automated citation generation.
 Author
 
 SaiPrabha C Y
-
-
-Update README with unified research documentation and citation
-
