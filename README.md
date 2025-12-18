@@ -81,9 +81,17 @@ Citation
 If you use this software or framework in your research, please cite:
 
 SaiPrabha C Y. Digital Twin Telescope – Research Prototype.
+
 Zenodo. https://doi.org/10.5281/zenodo.17967725
+
 A CITATION.cff file is included for automated citation generation.
 
 Author
 
 SaiPrabha C Y
+
+License
+
+This project is released under the MIT License.
+See the LICENSE file for details.
+
