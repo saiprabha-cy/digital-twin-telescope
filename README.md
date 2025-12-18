@@ -62,9 +62,9 @@ digital-twin-telescope/
 ## How to Run
 This project is intended as a research prototype.
 
-```bash
 pip install -r requirements.txt
 jupyter notebook notebooks/
+
 Run individual notebooks to reproduce simulations, reconstructions, and visualizations.
 
 Reproducibility
@@ -122,6 +122,7 @@ When you’re done, just reply:
 > **README updated**
 
 and we’ll move forward step by step 🚀
+
 
 
 
