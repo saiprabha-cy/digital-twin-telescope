@@ -47,8 +47,6 @@ digital-twin-telescope/
 
 ├── src/ # Core simulation modules (extensible)
 
-│
-
 ├── CITATION.cff
 
 ├── README.md
@@ -94,4 +92,5 @@ License
 
 This project is released under the MIT License.
 See the LICENSE file for details.
+
 
