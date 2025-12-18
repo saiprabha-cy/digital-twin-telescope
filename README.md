@@ -33,15 +33,23 @@ Each stage is modular and can be extended independently, enabling future integra
 digital-twin-telescope/
 │
 ├── assets/ # Dashboard styles and frontend assets
+
 ├── dashboard/ # Interactive visualization interface
+
 ├── data/ # Input and simulated datasets
+
 ├── notebooks/ # Experimental and analysis notebooks
+
 ├── results/ # Generated figures and metrics
+
 ├── src/ # Core simulation modules (extensible)
 │
 ├── CITATION.cff
+
 ├── README.md
+
 ├── requirements.txt
+
 └── LICENSE
 
 ---
@@ -109,3 +117,4 @@ When you’re done, just reply:
 > **README updated**
 
 and we’ll move forward step by step 🚀
+
