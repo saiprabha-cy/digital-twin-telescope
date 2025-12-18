@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17967725.svg)](https://doi.org/10.5281/zenodo.17967725)
+
 # Digital Twin Telescope
 
 A modular, end-to-end digital twin simulation framework for ground-based optical telescopes.  
@@ -92,5 +94,6 @@ License
 
 This project is released under the MIT License.
 See the LICENSE file for details.
+
 
 
