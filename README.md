@@ -84,6 +84,14 @@ All experiments are designed to be reproducible using the provided notebooks and
 
 ---
 
+## Software Archive
+
+The source code is archived on Zenodo for reproducibility:
+
+Software DOI: https://doi.org/10.5281/zenodo.17967725
+
+---
+
 ## Status
 
 Active development.
@@ -93,13 +101,16 @@ A peer-reviewed journal submission is in preparation.
 
 ## Citation
 
-If you use this software or framework in your research, please cite:
+If you use this work, please cite the preprint:
 
-SaiPrabha C Y. Digital Twin Telescope – Research Prototype.
+SaiPrabha C Y. (2025).  
+*A Digital Twin Telescope: An Integrated Simulation Framework for Optics, Atmosphere, Sensor, and Sky Modeling*.  
+Zenodo. https://doi.org/10.5281/zenodo.18017921
 
+If you use the software framework specifically, please cite:
+
+SaiPrabha C Y. Digital Twin Telescope (Software).  
 Zenodo. https://doi.org/10.5281/zenodo.17967725
-
-A CITATION.cff file is included for automated citation generation.
 
 ---
 
@@ -113,6 +124,7 @@ SaiPrabha C Y
 
 This project is released under the MIT License.
 See the LICENSE file for details.
+
 
 
 
