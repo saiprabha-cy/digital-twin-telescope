@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17967725.svg)](https://doi.org/10.5281/zenodo.17967725)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18017921.svg)](https://doi.org/10.5281/zenodo.18017921)
 
 # Digital Twin Telescope
 
@@ -9,6 +9,15 @@ The framework integrates physical optics, atmospheric turbulence, sensor modelin
 
 ## Motivation
 Modern astronomical instrumentation requires integrated simulation environments that combine optical physics, atmosphere, detectors, and data-driven methods. This project addresses that need through a flexible and extensible digital twin architecture that supports virtual experimentation, algorithm development, and system-level performance evaluation.
+
+---
+
+## Preprint
+
+SaiPrabha C Y (2025).  
+*A Digital Twin Telescope: An Integrated Simulation Framework for Optics, Atmosphere, Sensor, and Sky Modeling*.  
+Zenodo (Open Access Preprint).  
+DOI: https://doi.org/10.5281/zenodo.18017921
 
 ---
 
@@ -104,6 +113,7 @@ SaiPrabha C Y
 
 This project is released under the MIT License.
 See the LICENSE file for details.
+
 
 
 
